@@ -59,5 +59,5 @@
 
 ### App Preview
 
-[!Image Download](https://github.com/kr-prince/Vector-AI/blob/main/experiments/download.png)
-[!Image Classify](https://github.com/kr-prince/Vector-AI/blob/main/experiments/classify.png)
+![Image Download](https://github.com/kr-prince/Vector-AI/blob/main/experiments/download.png)
+![Image Classify](https://github.com/kr-prince/Vector-AI/blob/main/experiments/classify.png)
