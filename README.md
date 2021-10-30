@@ -23,7 +23,6 @@
     streamlit run classify_image.py
     ```
 
-
 ### To Train Image-Classifier from scratch
 
 1. `from ImageClassifier import ImageClassifier`
@@ -57,7 +56,12 @@
       Classification report saved in results.
     ```
 
+### Error Analysis
+
+Looking at the confusion matrix we see class **Shirt** having lowest score as it is being confused with other classes like **T-Shirt/Top, Coat and Pullover**. This is because even in the real world, visually these classes are highly similar. We can focus on these specific classes, going forward.
+
 ### App Preview
 
 ![Image Download](https://github.com/kr-prince/Vector-AI/blob/main/experiments/download.png)
 ![Image Classify](https://github.com/kr-prince/Vector-AI/blob/main/experiments/classify.png)
+
